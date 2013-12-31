@@ -1,0 +1,14 @@
+{
+  "name": "blockchain.wrapper",
+  "version": "0.0.1",
+  "description": "A simple wrapper around the blockchain.info JSON API",
+  "keywords": [],
+  "author": "James Poole <poole.james@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/pooleja/blockchain.wrapper.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
